@@ -82,6 +82,7 @@
 ## Why my most of repo's related to telegram bots?
 
   - Because during lockdown, I discovered that Telegram is basically a treasure chest of endless opportunities! 📦 It's not just about building bots; it's about unlocking unlimited skills. I'm learning, showcasing my talents, gaining popularity, building a cool community, and leaving my mark on people's hearts. 🚀 It's like the ultimate Gen Z playground, where coding meets creativity and connection. Who wouldn't want to be a part of that?
+  - Also, coming to tech talks, Each plugin/File/Function we made will be available via command. If i enter "/calc 3*7" and send to bot, the bot replies the answer. Instead of running codes in terminal, we can just send code in chat. bot replies the output. (Cant it be handy while teaching someone?) so, We can consider each plugin as a seperate list of project collection! 
 
 ## Who am I on Telegram?
 - Me ➡️ [@S4tyendra](https://github-opener.devh.in?next=https://t.me/S4tyendra)
@@ -107,7 +108,7 @@
 
 #### Are you even ready for this level of lit? 
 
- - And just so you know, I once applied for a ****, and they were so **** to say "Your GitHub profile looks kinda empty." But they had no idea, it was just private, not empty. It's like having a secret menu at a wicked Gen Z restaurant. Sometimes, you've got to get it through your thick skull that not everything's on display, but the flavors are still there! 🚀😎"
+ - And just so you know, I once applied for a ^^, and they were so ^^ to say "Your GitHub profile looks kinda empty." But they had no idea, it was just private, not empty. It's like having a secret menu at a wicked Gen Z restaurant. Sometimes, you've got to get it through your thick skull that not everything's on display, but the flavors are still there! 🚀😎"
 
 
 <details><summary><h1>Private Repo's 🤐</h1></summary> 
